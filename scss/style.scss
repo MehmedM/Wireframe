@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	width: 100%;
+	border: 5px solid black;
+
+	&__list {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	&__link {
+		display: inline;
+	}
+}

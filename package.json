@@ -1,0 +1,22 @@
+{
+  "name": "wireframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehmedM/Wireframe.git"
+  },
+  "author": "Mehmed Memed",
+  "bugs": {
+    "url": "https://github.com/MehmedM/Wireframe/issues"
+  },
+  "homepage": "https://github.com/MehmedM/Wireframe#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
